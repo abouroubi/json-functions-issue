@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "json_functions_issue": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7297",
+      "launchBrowser": false
+    }
+  }
+}
